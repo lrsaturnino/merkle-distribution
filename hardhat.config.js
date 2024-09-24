@@ -25,7 +25,7 @@ module.exports = {
       mainnet_test: 0,
     },
     rewardsHolder: {
-      sepolia: "0xCe692F6fA86319Af43050fB7F09FDC43319F7612",
+      sepolia: "0xC2551323E9f5Ea9C663B6E3fD4e738c4D65aF4cc",
       mainnet: "0x9F6e831c8F8939DC0C830C6e492e7cEf4f9C2F5f",
       mainnet_test: 0,
     },
@@ -34,7 +34,7 @@ module.exports = {
       mainnet: "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
     },
     owner: {
-      sepolia: 0,
+      sepolia: "0x3B42d26E19FF860bC4dEbB920DD8caA53F93c600",
       mainnet: "0x9F6e831c8F8939DC0C830C6e492e7cEf4f9C2F5f",
       mainnet_test: 0,
     },
