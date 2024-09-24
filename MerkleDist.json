@@ -1,0 +1,11 @@
+{
+    "totalAmount": "100000000000000000000",
+    "merkleRoot": "0x67e581b18ae777de26a98409976f6cb416ab94f021f5c0ab60498c97cee7a89a",
+    "claims": {
+        "0x3B42d26E19FF860bC4dEbB920DD8caA53F93c600": {
+            "beneficiary": "0x3B42d26E19FF860bC4dEbB920DD8caA53F93c600",
+            "amount": "100000000000000000000",
+            "proof": []
+        }
+    }
+}
